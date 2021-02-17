@@ -1,0 +1,3 @@
+The following folder contains a combinatorial problem that was solved during my academic career for a course called "Algorithms and data structure in biology".
+Please notice that before executing the program, one should read carefully the pdf file called "ADB_combinatorialProblemTWO.pdf" in order to properly understand how the program works and how to correctly execute it.
+The program script to be executed is called "ADB(script_combinatorialProblemTWO.py"
