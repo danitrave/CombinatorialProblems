@@ -1,6 +1,3 @@
-###DANIELE TRAVERSA
-###ID: 0000830457
-
 import random
 
 def test():
